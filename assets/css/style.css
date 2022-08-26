@@ -437,7 +437,7 @@ label {
 
 .container-btn-mode {
   position: absolute;
-  top: 20px;
+  top: 10px;
   right: 30px;
   cursor: pointer;
   z-index: 2;
