@@ -140,7 +140,8 @@ li a:hover {
   border-radius: 8px;
   overflow: hidden;
   margin: 20px;
-  box-shadow: 20px 10px 5px; }
+  box-shadow: 20px 10px 5px;
+  z-index: 4;}
   .col .card h-100 {
     width: 100%;
     max-width: 1700px;
